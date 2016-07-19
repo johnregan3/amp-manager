@@ -10,6 +10,4 @@ This plugin extends [the WordPress AMP plugin by Automattic](https://wordpress.o
 
 ** Author: ** [John Regan](http://johnregan3.com)
 
-| Author | [John Regan](http://johnregan3.com)  |
-| Version | 0.1 |
-| something | something else |
+Author: [John Regan](http://johnregan3.com) | [Twitter](http://twitter.com/johnregan3) | [WordPress.org](https://profiles.wordpress.org/johnregan3)
