@@ -1,1 +1,1 @@
-# customize-amp
+# amplify
