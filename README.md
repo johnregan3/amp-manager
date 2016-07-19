@@ -8,6 +8,5 @@ This plugin extends [the WordPress AMP plugin by Automattic](https://wordpress.o
 * Ability to remove invalid markup from the post content.
 * Ability to strip out shortcodes which may have invalid markup.
 
-** Author: ** [John Regan](http://johnregan3.com)
-
+----
 Author: [John Regan](http://johnregan3.com) | [Twitter](http://twitter.com/johnregan3) | [WordPress.org](https://profiles.wordpress.org/johnregan3)
